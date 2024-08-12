@@ -32,7 +32,7 @@ The project suggest the students applying some technologies such as HTML5, CSS, 
      Acompanhe o plano do projeto no Whimsical e junte-se ao forum no Discord: 
      <div display="inline">
      <a href="https://whimsical.com/conteudo-ANQuyYSWmWFeMj2gkBr4Du"><img width="164px" height="144px" src="https://github.com/bzsantos/sitegoku/blob/main/img/whinsical.png"></a>
-     <a href="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><img width="164px" height="124px"  src="https://github.com/bzsantos/sitegoku/blob/main/img/discord.png"></a>
+     <a href="https://discord.gg/PRNBvejPuq"><img width="164px" height="124px"  src="https://github.com/bzsantos/sitegoku/blob/main/img/discord.png"></a>
      <div>
   #
   Vídeos disponibilizados em breve para DW-I em meu canal: 
