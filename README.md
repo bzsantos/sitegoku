@@ -3,6 +3,10 @@
 **Project - Goku Store - This is part of tasks from DW-I - FATEC Diadema - São Paulo | Developed by PhD. Bruno Zolotareff**
 
 **This project is been used by students in college called Fatec from Diadema, São Paulo - Brazil** 
+
+link para o projeto
+
+https://bzsantos.github.io/sitegoku/
 #
 The project suggest the students applying some technologies such as HTML5, CSS, Bootstrap, JSON and JavaScript just in Front-End resources
 <div display="inline">
