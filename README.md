@@ -8,7 +8,7 @@ link para o projeto
 
 https://bzsantos.github.io/sitegoku/
 #
-The project suggest the students applying some technologies such as HTML5, CSS, Bootstrap, JSON and JavaScript just in Front-End resources
+The project suggested some technologies such as HTML5, CSS, Bootstrap, JSON and JavaScript just in Front-End resources
 <div display="inline">
 <img width="54px" height="54px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   
 <img width="54px" height="54px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -22,12 +22,12 @@ The project suggest the students applying some technologies such as HTML5, CSS, 
     <div display="inline">
     <img width="334px" height="184px"  src="https://github.com/bzsantos/sitegoku/blob/main/img/box.jpg" />
 
-    Obs: You can see the explain this video class on my YouTube channel on this link:
+   ** Obs: You can see the explain this video class on my YouTube channel on this link:
          Você pode ver a explicação do vídeo explicativo no meu cabal do YouTube neste link:
          1º Parte 1: https://youtu.be/S_GN9gbdUU4
          2º Parte 2: As soon as possible / em breve
          (Don't forget to subscribe to my channel and press the bell to receive new videos.)
-         -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.
+         -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.**
 
   * The tasks for the students were divided in two parts: 
 
