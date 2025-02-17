@@ -28,6 +28,7 @@ The project suggested some technologies such as HTML5, CSS, Bootstrap, JSON and 
          2º Parte 2: As soon as possible / em breve
          (Don't forget to subscribe to my channel and press the bell to receive new videos.)
          -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.**
+    </div>
 
   * The tasks for the students were divided in two parts: 
 
