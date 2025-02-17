@@ -18,16 +18,16 @@ The project suggested some technologies such as HTML5, CSS, Bootstrap, JSON and 
 <div> 
 <th>
 
-  *You will start to learn some components that are used in HTML5 styles, such as margin, border, padding etc.*
+  <strong>You will start to learn some components that are used in HTML5 styles, such as margin, border, padding etc.*</strong>
     <div display="inline">
     <img width="334px" height="184px"  src="https://github.com/bzsantos/sitegoku/blob/main/img/box.jpg" />
 
-   **Obs: You can see the explain this video class on my YouTube channel on this link:<br>
+   Obs: You can see the explain this video class on my YouTube channel on this link:<br>
          Você pode ver a explicação do vídeo explicativo no meu cabal do YouTube neste link:<br>
          Video 1: https://youtu.be/S_GN9gbdUU4<br>
          Video 2: As soon as possible / em breve<br>
          (Don't forget to subscribe to my channel and press the bell to receive new videos.)<br>
-         -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.**
+         -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.
     </div>
 
   * The tasks for the students were divided in two parts: 
