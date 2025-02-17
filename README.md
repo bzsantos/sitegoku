@@ -28,15 +28,16 @@ The project suggested some technologies such as HTML5, CSS, Bootstrap, JSON and 
          Video 2: As soon as possible / em breve<br><br>
          (Don't forget to subscribe to my channel and press the bell to receive new videos.)<br>
          -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.<br><br>
+    </div>
 
-         *Links úteis -- Estudo dos elementos e tags utilizados para formatação do estilo da folha do HTML<br>
+         Links úteis -- Estudo dos elementos e tags utilizados para formatação do estilo da folha do HTML<br>
           - Margin & Padding<br>
           https://www.devmedia.com.br/como-usar-as-propriedades-margin-e-padding-css/24409<br>
           - Border<br>
           https://www.devmedia.com.br/css-border/43522<br>
           - Introdução do flexbox<br>
           https://css-tricks.com/snippets/css/a-guide-to-flexbox/<br>
-    </div>
+  
 
   * The tasks for the students were divided in two parts: 
 
