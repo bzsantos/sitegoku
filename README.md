@@ -18,6 +18,17 @@ The project suggest the students applying some technologies such as HTML5, CSS, 
 <div> 
 <th>
 
+  * You will start to learn some components that are used in HTML5 styles, such as margin, border, padding etc.
+    <div display="inline">
+    <img width="334px" height="184px"  src="https://github.com/bzsantos/sitegoku/blob/main/img/box.jpg" />
+
+    Obs: You can see the explain this video class on my YouTube channel on this link:
+         Você pode ver a explicação do vídeo explicativo no meu cabal do YouTube neste link:
+         1º Parte 1: https://youtu.be/S_GN9gbdUU4
+         2º Parte 2: As soon as possible / em breve
+         (Don't forget to subscribe to my channel and press the bell to receive new videos.)
+         -Não esqueça de escrever no meu canal e acione o sino para receber novos vídeos.
+
   * The tasks for the students were divided in two parts: 
 
     <strong>1º First:</strong> They will created the layout with focus with the idea that the site is a store that sell product linked Dragon Ball Anime.<br>
